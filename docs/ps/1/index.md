@@ -8,7 +8,7 @@ lastUpdated: true
 **Difficulty**: :star: :star:
 
 ::: tip
-This puzzle set can also be viewed as a [PDF](./set.pdf){target=_blank}.
+This puzzle set can also be viewed as a [PDF](https://raw.githubusercontent.com/notinu/neptune/main/docs/ps/1/set.pdf){target=_blank}.
 :::
 
 ## 1. Complex
