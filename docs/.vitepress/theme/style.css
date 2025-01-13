@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap');
+
+:root {
+  --vp-c-indigo-1: #477ceb;
+  --vp-c-indigo-2: #58a5eb;
+  --vp-c-indigo-3: #58a5eb;
+
+  --vp-font-family-base: Geist;
+}
+
+.dark {
+  --vp-c-bg: #000000;
+  --vp-c-bg-alt: #080808;
+  --vp-c-bg-elv: #080808;
+  --vp-c-bg-soft: #111111;
+}
+
+.img-row {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 30px;
+}
+
+figcaption {
+  text-align: center;
+}

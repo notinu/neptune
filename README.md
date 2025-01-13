@@ -1,2 +1,0 @@
-# neptune
-tetris research website
