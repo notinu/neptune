@@ -12,12 +12,12 @@ export default defineConfig({
   head: [
     [
       'link',
-      { rel: 'icon', href: '/res/icon.png' }
+      { rel: 'icon', href: 'res/icon.png' }
     ]
   ],
 
   themeConfig: {
-    logo: '/res/icon.png',
+    logo: 'res/icon.png',
     lastUpdated: true,
 
     docFooter: {
