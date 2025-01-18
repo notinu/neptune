@@ -6,13 +6,13 @@ outline: deep
 
 # DB Cannon
 
-DB Cannon is a reliable _TSD &rarr; 2xTST_ opener. It was discovered May 2024. 
+DB Cannon is a reliable _TSD &rarr; 2xTST Tower_ opener. It was discovered May 2024. 
 
 ## 1<sup>st</sup> Bag {#bag-1}
 
 ![First bag](./2.gif){width=150px}
 
-This can be stacked with $56.51 \%$ of bags. With the mirrored setup, the probability rises to $71.11 \%$.
+This shape can be stacked with $56.51 \%$ of bags. With the mirrored setup, the probability rises to $71.11 \%$.
 
 ## 2<sup>nd</sup> Bag {#bag-2}
 

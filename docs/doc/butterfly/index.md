@@ -6,7 +6,7 @@ outline: deep
 
 # Butterfly
 
-Butterfly is a streamlined _TSD &rarr; 2xTST_ opener. It was discovered January 2025. 
+Butterfly is a streamlined _TSD &rarr; 2xTST Tower_ opener. It was discovered January 2025. 
 
 ## 1<sup>st</sup> Bag {#bag-1}
 
@@ -36,8 +36,8 @@ There are only [two builds](https://knewjade.github.io/fumen-for-mobile/#?d=v115
   <img src="./7.jpg" alt="Third bag solution, J first" width="150px">
 </div>
 
-$I, L, S$ have the same placement across all solutions.
+Note that $I, L, S$ have the same placement across all solutions.
 
 ::: tip
-Because the solutions overlap in coverage, the user may be able to opt for different solutions to reach an existing garbage well.
+The user may be able to opt for different solutions to reach an existing garbage well since they overlap in coverage.
 :::
