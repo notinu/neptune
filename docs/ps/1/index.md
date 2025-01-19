@@ -36,7 +36,7 @@ This puzzle set can also be viewed as a [PDF](https://raw.githubusercontent.com/
 ![Puzzle 3](./3.jpg){width=200px}
 
 **Difficulty**: :star: :star: :star: \
-**Queue**: `LJOIJSZTZ` \
+**Queue**: `LJOIJSTZT` \
 **Goal**: 1 TSD, 1 TST \
 **Hold**: Not allowed \
 **Rules**: jstris
