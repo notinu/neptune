@@ -15,7 +15,7 @@ TLT is a well-rounded _TSD -> 2xTST Tower_ opener. It was discovered September 2
 This shape can be stacked with $57.46 \%$ of bags. With the mirrored setup, the probability rises to $76.94 \%$.
 
 ::: details
-With mirror, TLT and [Cockroach](../cockroach) cover all possible queues for the first bag.
+With mirror, TLT and [Cockroach](../cockroach/) cover all possible queues for the first bag.
 :::
 
 ## 2<sup>nd</sup> Bag {#bag-2}

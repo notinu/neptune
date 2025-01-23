@@ -15,7 +15,7 @@ Cockroach is an unorthodox _TSD -> 2xTST Tower_ opener. It was discovered April 
 This shape can be stacked with $62.54 \%$ of bags. With the mirrored setup, the probability rises to $82.06 \%$. There are _two ways_ to stack this bag due to the congruent $O, S, Z$ shape.
 
 ::: details
-With mirror, Cockroach and [TLT](../tlt) cover all possible queues for the first bag.
+With mirror, Cockroach and [TLT](../tlt/) cover all possible queues for the first bag.
 :::
 
 ## 2<sup>nd</sup> Bag {#bag-2}
