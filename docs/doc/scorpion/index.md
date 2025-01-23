@@ -6,7 +6,7 @@ outline: deep
 
 # Scorpion <Badge type="warning" text="requires 180"/>
 
-Scorpion is a reliable _TSS &rarr; TSS/TSM &rarr; 2xTST Tower_ opener. It was discovered May 2023. 
+Scorpion is an efficient _TSS -> TSS/TSM -> 2xTST Tower_ opener. It was discovered May 2023. 
 
 ## 1<sup>st</sup> Bag
 
@@ -20,7 +20,10 @@ This shape can be stacked with $24.29 \%$ of bags. With the mirrored setup, the 
 
 This shape can be stacked with $100 \%$ of bags while keeping B2B. *With hold*, the following setup works for all permutations of $S, J, T$:
 
-![Equivalent TSS/TSM shape](./4.gif){width=150px}
+<div class="img-row">
+  <img src="./4.gif" alt="Second bag TSS" width="60px">
+  <img src="./9.gif" alt="Second bag TSM" width="60px">
+</div>
 
 *180 rotations* are also necessary to guarantee stacking this shape, as $L$ cannot otherwise be placed after $Z$ and $O$.
 

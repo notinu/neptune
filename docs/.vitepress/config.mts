@@ -12,12 +12,12 @@ export default defineConfig({
   head: [
     [
       'link',
-      { rel: 'icon', href: 'icon.png' }
+      { rel: 'icon', href: 'icon2.png' }
     ]
   ],
 
   themeConfig: {
-    logo: 'icon.png',
+    logo: 'icon2.png',
     lastUpdated: true,
 
     docFooter: {
@@ -45,8 +45,11 @@ export default defineConfig({
             collapsed: false,
             items: [
               { text: 'Butterfly', link: 'butterfly' },
+              { text: 'Cockroach', link: 'cockroach' },
               { text: 'DB Cannon', link: 'db-cannon' },
-              { text: 'Scorpion', link: 'scorpion' }
+              { text: 'Scorpion', link: 'scorpion' },
+              { text: 'TLT', link: 'tlt' },
+              { text: 'TL2', link: 'tl2' }
             ]
           },
 

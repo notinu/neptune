@@ -6,19 +6,23 @@ outline: deep
 
 # Butterfly
 
-Butterfly is a streamlined _TSD &rarr; 2xTST Tower_ opener. It was discovered January 2025. 
+Butterfly is a quick _TSD -> 2xTST Tower_ opener. It was discovered January 2025. 
 
 ## 1<sup>st</sup> Bag {#bag-1}
 
 ![First bag](./2.gif){width=150px}
 
-This can be stacked with $43.49 \%$ of bags. With the mirrored setup, the probability rises to $53.33 \%$.
+This shape can be stacked with $43.49 \%$ of bags. With the mirrored setup, the probability rises to $53.33 \%$.
+
+::: tip
+This bag can be stacked with considerably low KPP.
+:::
 
 ## 2<sup>nd</sup> Bag {#bag-2}
 
 ![Second bag](./3.gif){width=150px}
 
-This build covers $95.00 \%$ of bags with the t-spin, and $98.33 \%$ without. For specific queues, an $I$-spin and/or an $S$-tuck is needed. To perform the $I$-spin, tuck the piece and rotate clockwise once as shown below.
+This build covers $95.00 \%$ of bags with the t-spin, and $98.33 \%$ without. For specific queues, an $I$-spin and/or an $S$-tuck with rotations is needed. To perform the $I$-spin, tuck the piece and rotate clockwise once as shown below.
 
 ![S tuck, I spin](./4.gif){width=150px}
 
