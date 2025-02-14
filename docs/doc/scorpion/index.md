@@ -33,19 +33,19 @@ This shape can be stacked with $100 \%$ of bags while keeping B2B. *With hold*, 
 
 With the third bag the user can stack a full *2xTST Tower* with $95.91 \%$ of bags.
 
-#### Early S solution
+#### Early $S$ solution
 
 ![Third bag, early S solution](./6.jpg){width=150px}
 
 This solution leads to clean stacking, so it should be checked for first.
 
-#### L, S, Z solutions
+#### $L, S, Z$ solutions
 
 ![Third bag, L S and Z solutions](./8.gif){width=150px}
 
 These solutions are easy to identify due to the $L, Z$ shape along with $S$ being fixed. The remaining pieces can be freestyled fairly easily, but fail when $I > J > O$ and $T > J$.
 
-#### I, J solutions
+#### $I, J$ solutions
 
 ![Third bag, I and J solutions](./7.gif){width=150px}
 

@@ -47,6 +47,7 @@ export default defineConfig({
               { text: 'Butterfly', link: 'butterfly' },
               { text: 'Cockroach', link: 'cockroach' },
               { text: 'DB Cannon', link: 'db-cannon' },
+              { text: 'Gemini', link: 'gemini' },
               { text: 'Scorpion', link: 'scorpion' },
               { text: 'TLT', link: 'tlt' },
               { text: 'TL2', link: 'tl2' }
