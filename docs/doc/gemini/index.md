@@ -16,6 +16,8 @@ This shape can be stacked with $45.24 \%$ of bags. With the mirrored setup, the 
 
 ## 2<sup>nd</sup> Bag {#bag-2}
 
+![Second bags](./9.gif){width=150px}
+
 The user can always stack the same shape in one of two ways.
 
 #### $O$ before $Z$
