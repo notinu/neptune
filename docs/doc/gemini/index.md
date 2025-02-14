@@ -22,7 +22,7 @@ The user can always stack the same shape in one of two ways.
 
 ![Second bag TSD](./3.gif){width=150px}
 
-This build is preferred as it has a TSD and starts B2B. It covers $66.67 \% = \frac{2}{3}$ of queues.
+This build is preferred as it has a TSD and starts B2B. It covers $66.67 \%$ of queues.
 
 #### Alternate
 
