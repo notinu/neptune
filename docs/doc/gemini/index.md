@@ -4,7 +4,7 @@ outline: deep
 
 ![Gemini](./1.jpg){width=200px}
 
-# Gemini <Badge type="warning" text="requires 180"/>
+# Gemini <Badge type="warning" text="requires 180"/> <Badge type="danger" text="BM"/>
 
 Gemini is an audacious _(TSD) -> TST -> TST_ opener. It was discovered February 2025.
 
@@ -28,7 +28,7 @@ This build is preferred as it has a TSD and starts B2B. It covers $66.67 \% = \f
 
 ![Second bag alternate](./4.gif){width=150px}
 
-The user may be able to clear a TSS with this bag. Otherwise, they must perform a $Z$-spin, as shown below.
+The user can clear a TSS with some bags. Otherwise, they may need to perform a $Z$-spin, as shown below.
 
 ![Second bag Z spin](./5.gif){width=90px}
 
