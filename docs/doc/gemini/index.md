@@ -53,7 +53,7 @@ Since both TST overhangs are built, the user can combo the TSTs if the 4th $T$ c
 
 ### Accessing wells
 
-The user can open $9$ of $10$ wells by instead using the following overhangs. Assuming garbage is distributed uniformly across columns, this results in a $90.00 \%$ chance to access a well with the following $I$.
+The user can open $9$ of $10$ columns by using the following overhangs. Assuming garbage is distributed uniformly across columns, this results in a $90.00 \%$ chance to access a well with the following $I$.
 
 <div class="img-row">
   <img src="./10.jpg" alt="Third bag alt, overhang 1" width="150px">
