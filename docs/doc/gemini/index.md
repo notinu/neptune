@@ -50,3 +50,12 @@ The user may need to do one of two tucks to place the $L$, using _180 rotations_
 ::: tip
 Since both TST overhangs are built, the user can combo the TSTs if the 4th $T$ comes early.
 :::
+
+### Accessing wells
+
+The user can open $9$ of $10$ wells by instead using the following overhangs. Assuming garbage is distributed uniformly across columns, this results in a $90.00 \%$ chance to access a well with the following $I$.
+
+<div class="img-row">
+  <img src="./10.jpg" alt="Third bag alt, overhang 1" width="150px">
+  <img src="./11.jpg" alt="Third bag alt, overhang 2" width="150px">
+</div>
