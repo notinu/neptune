@@ -20,25 +20,15 @@ With mirror, TLT and [Cockroach](../cockroach/) cover all possible queues for th
 
 ## 2<sup>nd</sup> Bag {#bag-2}
 
-### Main route {#bag-2-main}
-
-![Second bag, main route](./3.gif){width=150px}
+![Second bag](./3.gif){width=150px}
 
 This shape can be stacked with any queue. For specific queues, an $S$-tuck and/or a $Z$-tuck &ndash; both with rotations &ndash; is needed.
 
 ![S tuck, Z tuck](./4.gif){width=150px}
 
-### Easy route {#bag-2-easy}
-
-![Second bag, easy route](./5.jpg){width=150px}
-
-This shape can be stacked with $70.00 \%$ of queues and leads to an easy third bag. This is the preferred build for VS.
-
 ## 3<sup>rd</sup> Bag {#bag-3}
 
-### Main route {#bag-3-main}
-
-The full *2xTST Tower* can always be stacked with the following builds.
+The full *2xTST Tower* can always be stacked using one of the following builds.
 
 <div class="img-row">
   <img src="./7.jpg" alt="Third bag solution one" width="100px">
@@ -46,18 +36,12 @@ The full *2xTST Tower* can always be stacked with the following builds.
   <img src="./8.jpg" alt="Third bag solution three" width="100px">
   <img src="./9.jpg" alt="Third bag solution four" width="100px">
   <img src="./10.jpg" alt="Third bag solution five" width="100px">
-  <img src="./11.gif" alt="Third bag solution six" width="100px">
+  <img src="./11.jpg" alt="Third bag solution six" width="100px">
 </div>
-
-### Easy route {#bag-3-easy}
-
-Observe that the last shape above can always be stacked given the [easy route](./#bag-2-easy) is taken &ndash; this is the only shape needed for the easy route.
-
-![Third bag, easy route](./12.jpg){width=150px}
 
 ## PC Looping (100%) <Badge type="warning" text="requires 180"/> {#looping}
 
-With a few changes, TLT can be used as a *14L PC loop* opener, provided the user takes the [main route](./#bag-2-main) in the second bag.
+With a few changes, TLT can be used as a *14L PC loop* opener.
 
 ### 3<sup>rd</sup> Bag {#loop-bag-3}
 
